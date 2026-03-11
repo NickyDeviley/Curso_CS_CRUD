@@ -1,5 +1,7 @@
 Meu Primeiro Programa em C# (CRUD) – Desenvolvimento de uma lista de contatos com interface gráfica.
 
+Link: https://www.udemy.com/share/107RcS3@cHpHZvmoXPnU10nP6oStaIH1ZugUN1As5-qHHiKvxz2CFNIeqhFC7Vqnm-3tu1M_SA==/ 
+
 Descrição: Este repositório contém o projeto desenvolvido durante o curso prático da Udemy, focado na criação de um software funcional de lista de contatos. O projeto demonstra a aplicação de operações CRUD (Create, Read, Update, Delete) utilizando a linguagem C# e as ferramentas visuais do Microsoft Visual Studio. O objetivo central foi integrar uma interface gráfica amigável com um banco de dados local embutido na própria IDE para persistência de dados.
 
 Pré-requisitos:
